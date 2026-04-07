@@ -1,5 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Tabs from "./components/Tabs";
+import App from "./components/App";
 
-ReactDOM.render(<Tabs />, document.getElementById("root"));
+ReactDOM.render(<App />, document.getElementById("root"));
