@@ -1,5 +1,5 @@
 import React from "react";
-function App(){
+function Tabs(){
     return(
             <div className="tabs">
                 <div className="tab" id="Home-tab">Home</div>
@@ -10,4 +10,4 @@ function App(){
     )
 
 }
-export default App;
+export default Tabs;
